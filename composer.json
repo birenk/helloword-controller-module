@@ -1,0 +1,18 @@
+{
+  "name": "birenk/helloworld-controller-module",
+  "description": "A basic Magento 2 module with a controller",
+  "type": "magento2-module",
+  "version": "2.0.1",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Birenk/HelloWorld"
+      ]
+    ]
+  }
+}
