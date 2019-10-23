@@ -4,7 +4,7 @@
 
 Install with Composer!
 
-    composer require birenk/helloeworld-controller-module:2.0.*
+    composer require birenk/helloworld-controller-module:2.0.*
 
 Then you'll need to modify `app/etc/config.php` to activate the module. It should look a little like this:
 
